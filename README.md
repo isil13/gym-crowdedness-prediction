@@ -1,4 +1,4 @@
-# Random Forest ile Spor Salonu Yoğunluk Tahmini 🏋
+# Random Forest ile Spor Salonu Yoğunluk Tahmini 
 
 Bu depo, bir spor salonundaki kişi sayısını çeşitli zamansal ve çevresel özelliklere dayanarak tahmin eden bir makine öğrenmesi projesidir. Model, günün saati, sıcaklık ve akademik takvim gibi faktörlerin spor salonu doluluğunu nasıl etkilediğini analiz etmek için **Random Forest Regressor** kullanılarak oluşturulmuştur.
 
